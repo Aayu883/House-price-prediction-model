@@ -1,0 +1,3 @@
+Python (latest version)
+Flask 
+Werkzeug (latest version)
